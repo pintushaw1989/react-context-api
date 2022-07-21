@@ -1,0 +1,8 @@
+.app_header {
+  display: flex;
+  justify-content: space-between;
+  height: 80px;
+  background-color: #282c34;
+  color: aliceblue;
+  padding: 0 100px;
+}
